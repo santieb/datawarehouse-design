@@ -1,1 +1,1 @@
-# reddit-datawarehouse-design
+# datawarehouse-design
